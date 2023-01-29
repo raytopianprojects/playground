@@ -1,2 +1,2 @@
 # playground
-Hot reloading for panda3d
+Hot reloading for panda3d.
